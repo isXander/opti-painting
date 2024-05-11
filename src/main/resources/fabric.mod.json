@@ -14,6 +14,7 @@
   },
   "license": "LGPL-3.0-or-later",
   "environment": "*",
+  "icon": "icon.png",
   "mixins": [
     "opti-painting.mixins.json"
   ],
