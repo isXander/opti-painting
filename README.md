@@ -34,5 +34,8 @@ Makes a total of 24 vertices per block on vanilla. And 8 vertices per block on O
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | ![Comparison (with OptiPainting)](https://cdn.modrinth.com/data/EYUuZlGR/images/81a562cd40da0fe5fdbbdbf32ba666d67fc61917.webp) | ![Comparison (without OptiPainting)](https://cdn.modrinth.com/data/EYUuZlGR/images/cd958a7c9c2064e970db96d42bc603730284d1c7.webp) |
 
+_This example is rendered without the back face to demonstrate what the mod does.
+You can see the back of the painting in vanilla and with the mod. (For now!!)_
+
 Obviously, if you only have the occasional painting in your world, you won't notice much of a difference, but it
 is free optimization none-the-less!
