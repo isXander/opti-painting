@@ -19,6 +19,7 @@
     "opti-painting.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.15.10"
+    "fabricloader": ">=0.15.10",
+    "minecraft": "${mc}"
   }
 }
