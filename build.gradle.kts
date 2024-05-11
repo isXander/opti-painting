@@ -184,7 +184,7 @@ publishing {
     publications {
         create<MavenPublication>("mod") {
             groupId = "dev.isxander"
-            artifactId = "opti-painting"
+            artifactId = "optipainting"
 
             from(components["java"])
         }
